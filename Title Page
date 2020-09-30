@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+   <html>    
+      <head>      
+         <title>HTMLFont size</title>    
+      </head>    
+      <body> 
+
+
+
+     <center>
+
+<p style="font-family:'Courier New'">
+
+<p>
+<p>
+<p>
+<p>
+<p>
+<p>
+         <h1 style="color:black;font-size:150px;">J.A.W. Cooper</h1>  
+<p>
+<p>
+<p>
+<p><p>
+<p>    
+         <p style="color:black;font-size:50px;">Julia and Annelie</p>    
+      </body>
+</html>
